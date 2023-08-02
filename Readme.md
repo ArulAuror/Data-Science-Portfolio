@@ -85,6 +85,19 @@ sizes and axel combination.
 ---
 
 ### Certificates 
+
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/18180e69-3dee-4ec5-8d45-4ff140bb3c53)
+* [SQL](https://coursera.org/share/be7f65fa09309f4cc3e2c67bcb071c3f)  
+* [Python3](https://courses.learncodeonline.in/learn/certificate/463898-12062)
+* [Machine Learning Engineer Nanodegree](https://confirm.udacity.com/KCFRE3KD)
+* [Data Cleaning in Snowflake](https://www.coursera.org/account/accomplishments/certificate/S8WV3ASPA54F))
+* [Data Science Professional Certificate](https://coursera.org/share/696a589922de676e872971acf146f4ec) 
+* [AI for Medicine](https://coursera.org/share/e12fc21c24eb1ebfe70121c66b7ee8ad)
+* [Data Visualization with Seborn](https://www.kaggle.com/learn/certification/youssef19/data-visualization)
+* [Time Series Forecasting](https://www.kaggle.com/learn/certification/youssef19/time-series)
+* [Data-Visualization-with-Plotly-in-Python](https://www.datacamp.com/statement-of-accomplishment/course/49b8afff93d6cbd07813b058ada618ddbd85fbab)
+* [Machine Learning Explanality-Kaggle](https://www.kaggle.com/learn/certification/youssef19/machine-learning-explainability)
+* 
 * [Machine Learning Specialization](https://coursera.org/share/fc5c10d3f96939edf29145069b48a6a3) 
 * [Big Data Specialization](https://coursera.org/share/be7f65fa09309f4cc3e2c67bcb071c3f)  
 * [Intro to Machine Learning with Tensorflow Nanodegree](https://confirm.udacity.com/EAATQCZY)
