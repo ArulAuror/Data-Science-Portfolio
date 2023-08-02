@@ -1,4 +1,4 @@
-Feel freee to explore the above projects
+Feel freee to explore the above project folders
 
 1. Covid Visualization
    
