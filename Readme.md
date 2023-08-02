@@ -82,16 +82,16 @@ sizes and axel combination.
 ### Certificates 
 
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/18180e69-3dee-4ec5-8d45-4ff140bb3c53)
-* [SQL](https://coursera.org/share/be7f65fa09309f4cc3e2c67bcb071c3f)  
+* [Oracle Certified PL/SQL Developer](https://www.credly.com/badges/892296be-af8c-4b3a-89fe-b0b3a4f305d7/public_url)  
 * [Python3](https://courses.learncodeonline.in/learn/certificate/463898-12062)
-* [Machine Learning Engineer Nanodegree](https://confirm.udacity.com/KCFRE3KD)
-* [Data Cleaning in Snowflake](https://www.coursera.org/account/accomplishments/certificate/S8WV3ASPA54F))
-* [Data Science Professional Certificate](https://coursera.org/share/696a589922de676e872971acf146f4ec) 
-* [AI for Medicine](https://coursera.org/share/e12fc21c24eb1ebfe70121c66b7ee8ad)
-* [Data Visualization with Seborn](https://www.kaggle.com/learn/certification/youssef19/data-visualization)
+* [Hands-on Tableau Training](https://confirm.udacity.com/KCFRE3KD)
+* [Data Cleaning in Snowflake](https://www.coursera.org/account/accomplishments/certificate/S8WV3ASPA54F)
+* [Data Visualization with Python](https://coursera.org/share/696a589922de676e872971acf146f4ec) 
+* [Optimization of SQL query Tuning and Performance](https://coursera.org/share/e12fc21c24eb1ebfe70121c66b7ee8ad)
+* [Applying BigQuery ML's Classification, Regression, and Demand Forecasting for Retail Applications](https://www.kaggle.com/learn/certification/youssef19/data-visualization)
 * [Time Series Forecasting](https://www.kaggle.com/learn/certification/youssef19/time-series)
 * [Data-Visualization-with-Plotly-in-Python](https://www.datacamp.com/statement-of-accomplishment/course/49b8afff93d6cbd07813b058ada618ddbd85fbab)
-* [Machine Learning Explanality-Kaggle](https://www.kaggle.com/learn/certification/youssef19/machine-learning-explainability)
+* [Intermediate SQL Queries](https://www.datacamp.com/completed/statement-of-accomplishment/course/15730c44270e3df3e900efe75e68c142163a7a5e)
 * 
 * [Machine Learning Specialization](https://coursera.org/share/fc5c10d3f96939edf29145069b48a6a3) 
 * [Big Data Specialization](https://coursera.org/share/be7f65fa09309f4cc3e2c67bcb071c3f)  
