@@ -1,14 +1,19 @@
 # Property Sales Prediction #
 
-## 1.Background ##
+<div> <img src='regression.png' width=300> </div>
+
+## 1.Background INformation ##
 
 In this project I will predict the price of Mahattan properties in NYC. In this project the following steps were excluded:
 
 * Loading the data
 * Preprocessing the data
-* Explore features or charecteristics to predict price of car
+* Explore features or charecteristics to predict price of property
 * Develop prediction models
-* Evaluate and refine prediction models
+* Evaluate and refine prediction models using cross validation
+* Final prediction
+* 
+### For code implementation, refer 'Property Sales Prediction.ipynb' file above
 
 ## 2. Methods
 
@@ -32,7 +37,11 @@ The dataset used is obtained from Kaggle. The data
 #### Binning ####
 
 
-### 2.3. Data Exploration ###
+### 2.4. Data Exploration ###
+
+### 2.5.Evaluate and refine prediction models using cross validation ###
+
+### 2.4.Final prediction ###
 
 
 
