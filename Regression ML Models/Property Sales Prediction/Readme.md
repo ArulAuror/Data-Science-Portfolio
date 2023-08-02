@@ -1,6 +1,6 @@
 # Property Sales Prediction #
 
-<div> <img src='regression.png' width=300> </div>
+<div> <img src='regression.jpeg' width=300> </div>
 
 ## 1.Background INformation ##
 
