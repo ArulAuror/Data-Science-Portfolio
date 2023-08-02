@@ -50,13 +50,6 @@ sizes and axel combination.
 * __[Melenoma Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Deep%20Learning/Classification/Melenoma_Classification)__: Classifying malignant Melanoma using skin lesion images using CNN-based classifiers.
 ---
 
-### Computer Vision 
-* __[Object Tracking using Particle Filter](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Tracking%20Objects%20in%20Video%20with%20Particle%20Filters)__: Implemented particle filter to track walking object in video
-*	__[Pose Estimation and Squat counter](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Computer%20Vision/Pose%20Estimation%20%26%20Squat%20Counter)__: Utilize python to develop a real-time pose estimation and squat counter using MovingNet lightning.
-
-* __[Object Detection Deployed on FastAPI](https://github.com/youssefHosni/Practical-Machine-Learning/tree/main/Deploying-Yolo3-Model-on-FastAPI)__:
----
-
 ### Natural Language Processing 
 
 * __[Sentiment Analysis web app](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Sentiment-analysis)__: Web application for classification of reviews, using deep learning model implemented in PyTorch and deployed on Amazon SageMaker.  
@@ -68,9 +61,9 @@ sizes and axel combination.
 * __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction for power consumption using DeepAR on AWS.
 ---
 
-### Data Visulization:
-* __[Immigrants to Canada data visulization](https://nbviewer.jupyter.org/github/youssefHosni/Data-Science-Portofolio/blob/main/Data%20Visualization/Python/Immigration_to_Canda_Data_Visualization.ipynb)__: Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
-*  __[Geospatial visualization of San Francisco Police Department Incidents](https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2FyoussefHosni%2FData-Science-Portofolio%2Fblob%2Fmain%2FData%2520Visualization%2FPython%2FSpatial%2520visualization%2520of%2520San%2520Francisco%2520incidents.ipynb)__: Visualizaing the geospatial data of the San Francisco police department incidents for the year 2016.
+### Data Visualization:
+* __[Capacity planning using Time Series data visulization](https://www.novypro.com/project/capacity-planning-using-time-series-power-bi)__: Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
+*  __[Risk Factor Analysis](https://www.novypro.com/project/risk-factor-analyis)__: Visualizaing the geospatial data of the San Francisco police department incidents for the year 2016.
 ---
 
 ### Spark 
