@@ -1,4 +1,4 @@
-https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/ef84d62d-4650-4728-b441-6d6a3f2c9077
+https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/8bbad997-4dab-4598-a02f-f6c61b711931?width=100&height=100
 
 ## TOP 10 BUSIEST U.S. ROUND-TRIP ROUTES 
 <img src='https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/054e580a-f0c3-47b5-aac1-a75f7b9789cd' width=800>
