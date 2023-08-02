@@ -66,5 +66,5 @@ Sales (5 States) - hire and repair
 Maintenance plans
 
 For the above requirement, I ended up creating the below ERD diagram
-## ERD Diagram modelled for the above requirement is as follows using Visio ##
+## ERD Diagram modelled for the above requirement is as follows using MySQL Workbench ##
 ![ERD](https://github.com/ArulAuror/Data-Science-Portfolio/blob/main/Data%20Modelling%20in%20MySQL/ERD_DataModel.png?raw=true)
