@@ -15,7 +15,7 @@ In this project I will predict whether the telecom customer will churn or not ba
 
 ## 2. Methods
 
-### For code implementation, refer 'Property Sales Prediction.ipynb' file above
+### For code implementation, refer 'Customer Churn.ipynb' file above
 
 ### 2.1. Data
 The dataset used is the obtained from IBM open source Datasets. The data
