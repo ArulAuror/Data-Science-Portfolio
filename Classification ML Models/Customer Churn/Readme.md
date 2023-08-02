@@ -1,6 +1,6 @@
 # Customer Churn Prediction #
 
-## 1.Background ##
+## 1.Background Information ##
 <div></div>
 <img src='1.png' width=300>
 </div>
@@ -15,6 +15,8 @@ In this project I will predict whether the telecom customer will churn or not ba
 
 ## 2. Methods
 
+### For code implementation, refer 'Property Sales Prediction.ipynb' file above
+
 ### 2.1. Data
 The dataset used is the obtained from IBM open source Datasets. The data
 
@@ -28,14 +30,16 @@ The dataset used is the obtained from IBM open source Datasets. The data
 
 #### Data Standardization ####
 
-
 #### Data Normalization ####
-
 
 #### Binning ####
 
+### 2.4. Data Exploration ###
 
-### 2.3. Data Exploration ###
+### 2.5. Cross Validation and Hyperparameter traning ###
+
+### 2.6. Final Prediction ###
+
 
 
 
