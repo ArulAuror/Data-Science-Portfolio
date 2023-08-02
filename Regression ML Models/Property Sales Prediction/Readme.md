@@ -1,7 +1,7 @@
 # Property Sales Prediction #
 
 ## [Click here for implementation file](https://github.com/ArulAuror/Data-Science-Portfolio/blob/main/Regression%20ML%20Models/Property%20Sales%20Prediction/Property%20sales%20prediction.ipynb)
-
+## [Click for implementation file using ensemble models](https://github.com/ArulAuror/Data-Science-Portfolio/blob/main/Regression%20ML%20Models/Property%20Sales%20Prediction/Property%20Sales%20Prediction%20using%20Ensemble%20Models%20and%20Deep%20Learning.ipynb)
 <div> <img src='regression.jpeg' width=300> </div>
 
 ## 1.Background INformation ##
