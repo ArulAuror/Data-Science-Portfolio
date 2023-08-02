@@ -64,7 +64,7 @@ sizes and axel combination.
 ---
 
 ### Data Visualization:
-* __[Capacity planning using Time Series data visulization](https://www.novypro.com/project/capacity-planning-using-time-series-power-bi)__: Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
+* __[Capacity planning using Time Series data visulization](https://www.novypro.com/project/capacity-planning-using-time-series-power-bi)__: Visualizing the resource utilization metrics for 24000 unique routers using different visualizing libraries in Python.
 *  __[Risk Factor Analysis](https://www.novypro.com/project/risk-factor-analyis)__: Visualizaing the geospatial data of the San Francisco police department incidents for the year 2016.
 ---
 
@@ -92,6 +92,8 @@ sizes and axel combination.
 * [Time Series Forecasting](https://www.kaggle.com/learn/certification/youssef19/time-series)
 * [Data-Visualization-with-Plotly-in-Python](https://www.datacamp.com/statement-of-accomplishment/course/49b8afff93d6cbd07813b058ada618ddbd85fbab)
 * [Intermediate SQL Queries](https://www.datacamp.com/completed/statement-of-accomplishment/course/15730c44270e3df3e900efe75e68c142163a7a5e)
+* [Hackathon](https://www.datacamp.com/completed/statement-of-accomplishment/course/15730c44270e3df3e900efe75e68c142163a7a5e)
+* [Call Analytics Engine](https://www.datacamp.com/completed/statement-of-accomplishment/course/15730c44270e3df3e900efe75e68c142163a7a5e)
 * 
 * [Machine Learning Specialization](https://coursera.org/share/fc5c10d3f96939edf29145069b48a6a3) 
 * [Big Data Specialization](https://coursera.org/share/be7f65fa09309f4cc3e2c67bcb071c3f)  
