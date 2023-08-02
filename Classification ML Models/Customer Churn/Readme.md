@@ -1,5 +1,8 @@
 # Customer Churn Prediction #
 
+## [Click here for implementation file using non-ensemble models](https://github.com/ArulAuror/Data-Science-Portfolio/blob/main/Classification%20ML%20Models/Customer%20Churn/Customer%20Churn.ipynb)
+## [Click for implementation file using ensemble models](https://github.com/ArulAuror/Data-Science-Portfolio/blob/main/Classification%20ML%20Models/Customer%20Churn/Customer%20Churn%20using%20Ensemble%20Models%20%26%20Deep%20Learning.ipynb)
+
 ## 1.Background Information ##
 <div></div>
 <img src='1.png' width=300>
