@@ -1,8 +1,8 @@
-# Automobile Price Prediction #
+# Customer Churn Prediction #
 
 ## 1.Background ##
 
-In this project I will predict the price of old automobile. In this project the following steps were excluded:
+In this project I will predict whether the telecom customer will churn or not basde on user activity. In this project the following steps were excluded:
 
 * Loading the data
 * Preprocessing the data
@@ -13,7 +13,7 @@ In this project I will predict the price of old automobile. In this project the 
 ## 2. Methods
 
 ### 2.1. Data
-The dataset used is the [Automobile Dataset](https://www.kaggle.com/datasets/premptk/automobile-data-changed) from Kaggle. The data
+The dataset used is the obtained from IBM open source Datasets. The data
 
 ### 2.2. Data Preprocessing 
 
