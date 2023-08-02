@@ -1,8 +1,9 @@
 # Customer Churn Prediction #
 
 ## 1.Background ##
-
-<! img src='1.png' width=300>
+<div></div>
+<img src='1.png' width=300>
+</div>
 
 In this project I will predict whether the telecom customer will churn or not basde on user activity. In this project the following steps were excluded:
 
