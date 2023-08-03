@@ -12,19 +12,19 @@
 
 ### Classification 
 * __[Crash Severity Analysis](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Crash%20Severity%20Analysis)__: Classifying the crashes as either severe or not by analyzing featuers like vehicle damage, time of accident, weather conditions, construction zone etc  using  using ensemble models and deep learning
-* __[Customer Churm](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)__: Utilized Python to develop supervised machine learning techniques to classify whether a telecom customer will churn or not, based on usage characteristics  using ensemble models and deep learning
+* __[Customer Churn](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)__: Utilized Python to develop supervised machine learning techniques to classify whether a telecom customer will churn or not, based on usage characteristics  using ensemble models and deep learning
 
 
 ### Natural Language Processing 
 
-* __[Sentiment Analysis](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Sentiment-analysis)__: 
-* __[Spam Detection]()__: 
-* __[StackExchange Question Tagging]()__:  
+* __[Sentiment Analysis](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Sentiment-analysis)__
+* __[Spam Detection]()__ 
+* __[StackExchange Question Tagging]()__  
 ---
 
 ## Deep Learning 
 * [Property sales prediction](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Regression%20ML%20Models/Property%20Sales%20Prediction)
-*  [Customer Churm](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)
+* [Customer Churm](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)
 
 ### Time series Analysis
 * __[Capacity planning forecasting](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction for power consumption using DeepAR on AWS.
@@ -32,11 +32,11 @@
 
 ### Data Visualization:
 * __[Capacity planning using Time Series data visualization](https://www.novypro.com/project/capacity-planning-using-time-series-power-bi)__: Visualizing the resource utilization metrics for 24000 unique routers using different visualizing libraries in Python.
-*  __[Risk Factor Analysis](https://www.novypro.com/project/risk-factor-analyis)__: Visualizaing the geospatial data of the San Francisco police department incidents for the year 2016.
+*  __[Risk Factor Analysis](https://www.novypro.com/project/risk-factor-analyis)__: Visualizing the geospatial data of the San Francisco police department incidents for the year 2016.
 ---
 
 ### Spark
-* __[Capacity planning using Time Series data]()__: Ultilizing pyspark to implement time series model using Facebook Prophet in Azure to predict resource utilization metrics of 25K devices' timeseries data for  the next 1 year
+* __[Capacity planning using Time Series data]()__: Utilizing pyspark to implement time series model using Facebook Prophet in Azure to predict resource utilization metrics of 25K devices' timeseries data for  the next 1 year
 ---
 
 ### Data Modeling 
@@ -56,7 +56,7 @@
 * [Intermediate SQL Queries](https://www.datacamp.com/completed/statement-of-accomplishment/course/15730c44270e3df3e900efe75e68c142163a7a5e)
 * [Hackathon]()
 * [Call Analytics Engine]()
-* [ODSC West 2021 Conference Partipant]()
+* [ODSC West 2021 Conference Participant]()
 ---
 
 ### Course Work
@@ -68,4 +68,5 @@
 * [Data Warehousing]()
 * [Cloud computing]()
 * [Business Analytics using R]()
+* [Applied Natural Language Processing]()
 * [Big Data]()
