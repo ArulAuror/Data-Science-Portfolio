@@ -1,10 +1,11 @@
 <h2 align='center'>  DATA SCIENCE PORTFOLIO  </h2>
 
-<h2 align='center'> End to End Skill Based Projects  </h2>
+<h2 align='center'> End to End Skill Based Projects  </h2>![monicaLogo](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/fed51c44-decb-4df0-bb97-202415702d70)
+
 
 
 ## Data Analytics - Finance:  
-* __[Airline Data Challenge](https://user-images.githubusercontent.com/76837847/257948828-8bbad997-4dab-4598-a02f-f6c61b711931.mp4)__: Recommended top 5 airline routes to a new airline investor based on break-even analysis on cost invested vs expected profit margin
+* __[Airline Data Challenge](https://user-images.githubusercontent.com/76837847/257948828-8bbad997-4dab-4598-a02f-f6c61b711931.mp4)__: Recommended top 5 airline routes to a new airline investor based on busyness of round trip route, profitability and break-even analysis on cost invested vs expected profit margin 
 <!--https://docs.google.com/presentation/d/e/2PACX-1vT3vwjmlPIT4o9uESFjccOzPn426MkCBX1iHqR643kUTbh12ojBaYGNfz4qAowQWA/pub?start=true&loop=true&delayms=1000-->
 
 ## Machine Learning:
@@ -17,7 +18,6 @@
 
 
 ### Natural Language Processing 
-
 * __[Sentiment Analysis](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Sentiment-analysis)__
 * __[Spam Detection]()__ 
 * __[StackExchange Question Tagging]()__  
