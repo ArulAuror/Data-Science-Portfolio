@@ -3,8 +3,9 @@
 <h2 align='center'> End to End Skill Based Projects  </h2>
 
 
-## Data Analytics - Finance:
-* __[Airline Data Challenge](https://docs.google.com/presentation/d/e/2PACX-1vT3vwjmlPIT4o9uESFjccOzPn426MkCBX1iHqR643kUTbh12ojBaYGNfz4qAowQWA/pub?start=true&loop=true&delayms=1000)__: Recommended top 5 airline routes to a new airline investor based on break-even analysis on cost invested vs expected profit margin
+## Data Analytics - Finance:  
+* __[Airline Data Challenge](https://user-images.githubusercontent.com/76837847/257948828-8bbad997-4dab-4598-a02f-f6c61b711931.mp4)__: Recommended top 5 airline routes to a new airline investor based on break-even analysis on cost invested vs expected profit margin
+<!--https://docs.google.com/presentation/d/e/2PACX-1vT3vwjmlPIT4o9uESFjccOzPn426MkCBX1iHqR643kUTbh12ojBaYGNfz4qAowQWA/pub?start=true&loop=true&delayms=1000-->
 
 ## Machine Learning:
 ### Regression
