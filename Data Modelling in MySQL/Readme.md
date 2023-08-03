@@ -1,6 +1,8 @@
 
 # Data Requirements #
 
+A large computer repair company is looking to expand their business into retail. Company ABC plans to buy parts, assemble and sell computer equipment that includes desktops, monitors/displays, laptops, mobile phones and tablets. It also plans to sell maintenance plans for the equipment it sells that includes 90-day money back guarantee, 12-month cost-free repairs for any manufacturing defects, and annual subscription for repairs afterwards at $100 dollars per year. As part of a sales & marketing campaign to generate interest, TTi is looking to sell equipment in 6 different packages: 1. Desktop computer, monitor and printer 2. Laptop and printer 3. Laptop and Phone 4. Tablet and Phone 5. Desktop computer, monitor and tablet 6. Desktop computer, monitor and phone ABC plans to sell these packages to consumers and to small-and-medium businesses (SMB). It also plans to offer 3-year lease terms to SMB customers wherein they can return all equipment to the company at the end of 3 years at no cost as long as they agree to enter into a new 3-year lease agreement. ABC also plans to expand its sales to neighboring states including Oklahoma, Louisiana, Missisippi, Alabama and Florida. ABC has rented several warehouses to hold its inventory and entered into contracts with several manufacturers in China and Taiwan to obtain high-quality parts at a reasonable price. It has also hired 5 sales people in each of the states mentioned previously, and doubled its repair workforce to meet the anticipated increase in business. ABC has realized that it can no longer use Excel spreadsheets to meet their data and information needs. It is looking to use open source and has decided to develop an application using Python and MySQL. Your team has been brought in to design a database that can meet all of its data needs.
+
 
 Parts of a computer - Fields/Dimensions
 Motherboard
@@ -64,6 +66,8 @@ Consumers
 SMB
 Sales (5 States) - hire and repair
 Maintenance plans
+
+
 
 For the above requirement, I ended up creating the below ERD diagram
 ## ERD Diagram modelled for the above requirement is as follows using MySQL Workbench ##
