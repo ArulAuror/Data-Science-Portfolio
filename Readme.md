@@ -1,6 +1,6 @@
 <h2 align='center'>  DATA SCIENCE PORTFOLIO  </h2>
 
-## End to End Skill Based Projects #
+<h2 align='center'> End to End Skill Based Projects  </h2>
 
 
 ## Data Analytics - Finance:
