@@ -55,8 +55,8 @@
 * [Optimization of SQL query Tuning and Performance]()
 * [Applying BigQuery ML's Classification, Regression, and Demand Forecasting for Retail Applications]()
 * [Intermediate SQL Queries](https://www.datacamp.com/completed/statement-of-accomplishment/course/15730c44270e3df3e900efe75e68c142163a7a5e)
-* [Hackathon]()
-* [Call Analytics Engine]()
+* [Hackathon](https://drive.google.com/file/d/1ocMwqoudB7LkkAPiwtqja9wNd0iLaFbO/view?usp=drive_link)
+* [Call Analytics Engine](https://drive.google.com/file/d/1SMVRMNlNl99ck36hl9cZFmXSKeiQlSN9/view?usp=drive_link)
 * [ODSC West 2021 Conference Participant]()
 ---
 
