@@ -1,6 +1,6 @@
 <h2 align='center'>  DATA SCIENCE PORTFOLIO  </h2>
 
-<h2 align='center'> End to End Skill Based Projects  </h2>![monicaLogo](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/fed51c44-decb-4df0-bb97-202415702d70)
+<h2 align='center'> End to End Skill Based Projects  </h2>
 
 
 
