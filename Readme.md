@@ -1,4 +1,4 @@
-# DATA SCIENCE PORTFOLIO  #
+<h2 align='center'>  DATA SCIENCE PORTFOLIO  </h2>
 
 ## End to End Skill Based Projects #
 
@@ -23,10 +23,10 @@
 ---
 
 ## Deep Learning 
-* [Property sales prediction](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Regression%20ML%20Models/Property%20Sales%20Prediction)
-* [Customer Churm](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)
+* __[Property sales prediction](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Regression%20ML%20Models/Property%20Sales%20Prediction)__
+* __[Customer Churm](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)__
 
-### Time series Analysis
+### Time-series Analysis
 * __[Capacity planning forecasting](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction for power consumption using DeepAR on AWS.
 ---
 
