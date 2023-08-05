@@ -1,7 +1,7 @@
 https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/8bbad997-4dab-4598-a02f-f6c61b711931?width=100&height=100
 
 ## Airline Data Challenge
-__Goal__ To recommend top 5 round-trip routes between medium and large US airports for an airline company looking to enter into US domestic market by profitability analysis
+__Goal__ To recommend top 5 round-trip routes between medium and large US airports for an airline company looking to enter into US domestic market by profitability analysis. Calculated the total profit, revenue, cost and breakeven based on the provided instructions.
 
 __Client's Moto__ "On time for you"
 
