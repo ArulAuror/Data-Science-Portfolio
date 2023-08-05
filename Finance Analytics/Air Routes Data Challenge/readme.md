@@ -8,7 +8,7 @@ __Client's Moto__ "On time for you"
 __Dataset for analysis__ 2019 Q1 flights data
 
 ### Quality Check:
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/1f614e5f-23dc-4e3b-ac6c-398002b2b5e5)
+![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/fb9ecd0a-b7c1-4eec-b009-455c4349fbab)
 
 ## TOP 10 BUSIEST U.S. ROUND-TRIP ROUTES 
 <img src='https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/054e580a-f0c3-47b5-aac1-a75f7b9789cd' width=800>
@@ -27,10 +27,9 @@ __Dataset for analysis__ 2019 Q1 flights data
 
 ### Decision:
 Employ flights in routes with high on time performance (OTP%). On analysis, medium-long hauls with less carriers have high OTP%
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/14f487cf-0846-422c-a2ff-0cf85975050d)
 
 ### Future KPIs to track
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/3d2434b9-ff1f-4ca9-81d2-978e20b2c6a0)
+<img src='https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/3d2434b9-ff1f-4ca9-81d2-978e20b2c6a0' width=600/>
 
 
 
