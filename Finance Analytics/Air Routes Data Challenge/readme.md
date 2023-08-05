@@ -1,11 +1,12 @@
 https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/8bbad997-4dab-4598-a02f-f6c61b711931?width=100&height=100
 
 ## Airline Data Challenge
-### GOAL:
-To recommend 5 round trip routes between medium and large US airports for an airline company looking to enter US domestic market by profitability analysis
-### CLIENT's Moto:
-### "On time for you"
-Dataset for analysis: 2019 Q1 flights data
+#### Goal:
+To recommend top 5 round-trip routes between medium and large US airports for an airline company looking to enter into US domestic market by profitability analysis
+#### Client's Moto:
+"On time for you"
+#### Dataset for analysis:
+2019 Q1 flights data
 
 ### Quality Check:
 ![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/97949c06-5966-4bae-af1e-babd9a95da8d)
