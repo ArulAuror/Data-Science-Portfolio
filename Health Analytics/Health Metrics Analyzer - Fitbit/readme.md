@@ -13,7 +13,7 @@ During the pandemic season like in late 2021, not all my master's program classe
 5. Understanding sleep stages to know what it takes to have a better deep sleep ie What it takes to get a better deep sleep
 
 ### Steps
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/e7d5b9be-e489-48b1-86fc-778ab007dc8b)
+<img src="https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/e7d5b9be-e489-48b1-86fc-778ab007dc8b" width=400>
 
 ### Data Scraping
 Scanning through developer pages, I came across WebAPI of my Fitness tracker that exposes daily usage reports as follows
@@ -22,8 +22,10 @@ Scanning through developer pages, I came across WebAPI of my Fitness tracker tha
 3. Sleep stages
 4. Heart rate/minute 
 I registered my app to get necessary client side credentials to begin data grabbing. With authorization steps collected and merged necessary data in excel file. collected and merged my daily Activity, Sleep and Heart rate data which I dumped into SQL.
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/9279fe49-c4c1-4d05-8dba-1a693e8e1273)
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/91ccf46a-a1a0-433b-a734-727c4486c8c7)
+<p style="float">
+<img src="https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/9279fe49-c4c1-4d05-8dba-1a693e8e1273" width=800/>
+<img src="https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/91ccf46a-a1a0-433b-a734-727c4486c8c7" width=800/>
+</p>
 
 ### Loading of Scraped Data to SQL 
 Have written scripts to pull the data 
