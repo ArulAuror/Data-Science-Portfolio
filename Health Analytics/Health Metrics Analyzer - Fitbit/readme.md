@@ -1,6 +1,6 @@
 
 ### Goal:
-During the pandemic season like in late 2021, not all my master's program classes at UTD were in-person and thus happened to spend my time indoors mostly.
+During the pandemic season like in late 2021, not all my master's program classes at UTD were in-person and thus happened to spend my time indoors mostly. I wanted to explore my health metrics derived my fitness tracker plus my custom analysis to improve my overall well being and ended up building an end-end project for the same
 1. Wanted to understand how well I could keep up with my set goals with respect to walking and other exercises considering all the extraneous factors that can’t be derived from standard fitness tracker.
 2. Using ML to predict sleep quality metrics based on deep sleep
 3. Also wanted to explore any interesting findings along the way.
@@ -21,4 +21,7 @@ Scanning through developer pages, I came across WebAPI of my Fitness tracker tha
 I registered my app to get necessary client side credentials to begin data grabbing. With authorization steps collected and merged necessary data in excel file. collected and merged my daily Activity, Sleep and Heart rate data which I dumped into SQL.
 ![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/9279fe49-c4c1-4d05-8dba-1a693e8e1273)
 ![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/91ccf46a-a1a0-433b-a734-727c4486c8c7)
+
+![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/869e67fa-3a8e-4311-af69-8cb817a58e12)
+
 
