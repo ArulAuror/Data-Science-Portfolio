@@ -29,16 +29,19 @@ I registered my app to get necessary client side credentials to begin data grabb
 
 ### Loading of Scraped Data to SQL 
 Have written scripts to pull the data 
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/869e67fa-3a8e-4311-af69-8cb817a58e12)
+
+<img src="https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/869e67fa-3a8e-4311-af69-8cb817a58e12" width=800/>
 
 
 ### Sleep analysis
 __Sleep cycle stages in different days of a week__
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/59af4eff-cbee-48a7-b030-9429f61b7413)
+
+<img src="https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/59af4eff-cbee-48a7-b030-9429f61b7413"  width=600/>
 
 
 __Deep Sleep Correlation__
-![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/77c7025f-d929-4bcc-935a-a18e00ac0dd6)
+
+<img src="https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/77c7025f-d929-4bcc-935a-a18e00ac0dd6" width=400/>
 
 
 
