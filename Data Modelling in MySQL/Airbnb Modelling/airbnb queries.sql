@@ -2,13 +2,10 @@ select * from listing;
 SELECT count(*) AS columncount FROM information_schema.columns
 WHERE table_name = 'listing';
 ALTER table listing add primary key(listing_id);
-
 select * from host;
 ALTER table host add primary key (host_id);
 select * from host where host_id = 5177328;
-
 select count(*) from host;
-
 select count(distinct host_id) from listings;
 INSERT INTO host (host_id, host_url, host_name, host_since, host_location, host_about, host_response_time, 
 host_response_rate, host_acceptance_rate, host_is_superhost, host_thumbnail_url, host_picture_url, host_neighbourhood, 
@@ -23,7 +20,6 @@ VALUES
 SET SQL_SAFE_UPDATES = 0;
 delete from host where
 host_id in (
-
 select host_id from 
 ( select host_id, row_number() OVER 
 ( partition by host_id order by host_id ) as row_num 
@@ -34,25 +30,19 @@ DROP table verifications;
 
 select * from verifications;
 alter table verifications drop column host_verifications;
-
 select * from verifications;
 select * from host_verifications;
-
 select * from amenities;
 select * from bed_type;
 ALTER table bed_type add primary key(bed_type_id);
 alter table bed_type rename column bed_type to bed_type_name;
-
 select * From room_type;
 select * from property_type;
-
 select count(*) from reviews;
 select count(distinct amenities_id) from amenities;
-
 create table property_amenities as (
 select distinct a.id , b.amenities_id  from listings a join amenities b on a.amenities = b.amenities
 );
-
 select * from listing;
 
 update listing set weekly_price = substr(weekly_price,2);
