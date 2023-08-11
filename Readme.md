@@ -41,7 +41,7 @@
 ---
 
 ### Data Modeling 
-* __[Data Modelling in MySQL](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Data%20Modelling%20in%20MySQL)__ : Modeling for a new retail company that wishes to expands its business. Designed and built an ERD diagram by brainstorming different entities required to solve the use case along with identifying relationships with Fact and Dimension tables and insert data into new tables.
+* __[Data Modelling in MySQL](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Data%20Modelling%20in%20MySQL)__ : Modeling for a new retail company that wishes to expand its business. Designed and built an ERD diagram by brainstorming different entities required to solve the use case along with identifying relationships with Fact and Dimension tables and insert data into new tables.
 ---
 
 ### Certificates 
