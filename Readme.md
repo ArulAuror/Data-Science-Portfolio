@@ -28,7 +28,7 @@
 * __[Customer Churn](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)__
 
 ### Time-series Analysis
-* __[Capacity planning forecasting](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction for power consumption using DeepAR on AWS.
+* __[Capacity planning forecasting](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction of resource utilization metrics of 25K devices' timeseries data for  the next 1 year
 ---
 
 ### Data Visualization:
