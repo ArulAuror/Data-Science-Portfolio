@@ -5,15 +5,15 @@
 
 
 ## Data Analytics - Finance:  
-* __[Airline Data Challenge](https://user-images.githubusercontent.com/76837847/257948828-8bbad997-4dab-4598-a02f-f6c61b711931.mp4)__: Recommended top 5 airline routes to a new airline investor based on busyness of round trip route, profitability and break-even analysis on cost invested vs expected profit margin 
+* __[Airline Data Challenge](https://user-images.githubusercontent.com/76837847/257948828-8bbad997-4dab-4598-a02f-f6c61b711931.mp4)__: Recommended top 5 airline routes to a new airline investor based on the busyness of round trip route, profitability, and break-even analysis on cost invested vs expected profit margin 
 <!--https://docs.google.com/presentation/d/e/2PACX-1vT3vwjmlPIT4o9uESFjccOzPn426MkCBX1iHqR643kUTbh12ojBaYGNfz4qAowQWA/pub?start=true&loop=true&delayms=1000-->
 
 ## Machine Learning:
 ### Regression
-* __[Property sales prediction](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Regression%20ML%20Models/Property%20Sales%20Prediction)__: Utlitize python to implement end to end data science pipeline to predict the property sales based on the given features with ensemble models and deep learning
+* __[Property sales prediction](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Regression%20ML%20Models/Property%20Sales%20Prediction)__: Utilized Python to implement end-to-end data science pipeline to predict the property sales based on the given features with ensemble models and deep learning
 
 ### Classification 
-* __[Crash Severity Analysis](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Crash%20Severity%20Analysis)__: Classifying the crashes as either severe or not by analyzing featuers like vehicle damage, time of accident, weather conditions, construction zone etc  using  using ensemble models and deep learning
+* __[Crash Severity Analysis](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Crash%20Severity%20Analysis)__: Classification of crashes as either severe or not by analyzing features like vehicle damage, time of the accident, weather conditions, construction zone etc  using ensemble models and deep learning
 * __[Customer Churn](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)__: Utilized Python to develop supervised machine learning techniques to classify whether a telecom customer will churn or not, based on usage characteristics  using ensemble models and deep learning
 
 
@@ -28,12 +28,12 @@
 * __[Customer Churn](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Classification%20ML%20Models/Customer%20Churn)__
 
 ### Time-series Analysis
-* __[Capacity planning forecasting](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction of resource utilization metrics of 25K devices' timeseries data for  the next 1 year
+* __[Capacity planning forecasting](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real-time prediction of resource utilization metrics of 25K devices' timeseries data for  the next 1 year
 ---
 
 ### Data Visualization:
 * __[Capacity planning using Time Series data visualization](https://www.novypro.com/project/capacity-planning-using-time-series-power-bi)__: Visualizing the resource utilization metrics for 24000 unique routers using different visualizing libraries in Python.
-*  __[Risk Factor Analysis](https://www.novypro.com/project/risk-factor-analyis)__: Visualizing the geospatial data of the San Francisco police department incidents for the year 2016.
+*  __[Risk Factor Analysis](https://www.novypro.com/project/risk-factor-analyis)__: Analyse trucking movement to create a visualization capturing risk factors of commercial truck drivers nationwide in US
 ---
 
 ### Spark
