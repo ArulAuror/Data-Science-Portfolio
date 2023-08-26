@@ -5,7 +5,7 @@
 
 
 ## Data Analytics - Finance:  
-* __[Airline Data Challenge](https://user-images.githubusercontent.com/76837847/257948828-8bbad997-4dab-4598-a02f-f6c61b711931.mp4)__: Recommended top 5 airline routes to a new airline investor based on the busyness of round trip route, profitability, and break-even analysis on cost invested vs expected profit margin 
+* __[Airline Data Challenge](https://user-images.githubusercontent.com/76837847/257948828-8bbad997-4dab-4598-a02f-f6c61b711931.mp4)__: Recommended top 5 airline routes to a new airline investor based on the busyness of round trip route, profitability, and break-even analysis on cost invested vs expected profit margin. [Full Project here](https://github.com/ArulAuror/Data-Science-Portfolio/tree/main/Finance%20Analytics/Air%20Routes%20Data%20Challenge)
 <!--https://docs.google.com/presentation/d/e/2PACX-1vT3vwjmlPIT4o9uESFjccOzPn426MkCBX1iHqR643kUTbh12ojBaYGNfz4qAowQWA/pub?start=true&loop=true&delayms=1000-->
 
 ## Machine Learning:
