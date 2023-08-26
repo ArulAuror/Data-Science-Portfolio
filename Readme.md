@@ -68,7 +68,7 @@
 * [Econometrics and Time Series Analysis]()
 * [Advanced Statistics]()
 * [Database Management]()
-* [Predictive Analytics using SAS]()
+* [Predictive Analytics using SAS - Marketing]()
 * [Data Warehousing]()
 * [Cloud computing]()
 * [Business Analytics using R]()
