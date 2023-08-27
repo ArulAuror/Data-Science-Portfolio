@@ -55,12 +55,16 @@
 * [Optimization of SQL query Tuning and Performance]()
 * [Applying BigQuery ML's Classification, Regression, and Demand Forecasting for Retail Applications]()
 * [Intermediate SQL Queries](https://www.datacamp.com/completed/statement-of-accomplishment/course/15730c44270e3df3e900efe75e68c142163a7a5e)
-* [Outstanding Performer Award](https://drive.google.com/file/d/1JrjqvALDtc3Q7lIOuPbzzPT7IJ-tFjUx/view?usp=drive_link)
 * [Hackathon](https://drive.google.com/file/d/1ocMwqoudB7LkkAPiwtqja9wNd0iLaFbO/view?usp=drive_link)
-* [Verizon Spotlight Award_Teamwork](https://drive.google.com/file/d/1hfoXySWvLT-Ta9yd_R4ips0N-fgAuHTg/view?usp=drive_link)
-* [Verizon Spotlight Award_Customer Excellence]()
-* [Call Analytics Engine](https://drive.google.com/file/d/1SMVRMNlNl99ck36hl9cZFmXSKeiQlSN9/view?usp=drive_link)
 * [ODSC West 2021 Conference Participant]()
+---
+
+### Appreciations
+* [Outstanding Performer Award](https://drive.google.com/file/d/1JrjqvALDtc3Q7lIOuPbzzPT7IJ-tFjUx/view?usp=drive_link)
+* [Verizon Spotlight Award_Teamwork](https://drive.google.com/file/d/1hfoXySWvLT-Ta9yd_R4ips0N-fgAuHTg/view?usp=drive_link)
+* [Verizon Spotlight Award_Customer Excellence](https://drive.google.com/file/d/1kx38IG4grTML-eNhyFnWLFM_0W9fRzVS/view?usp=sharing)
+* [T-Mobile Feedback](https://drive.google.com/file/d/1N4Q1WZbiJAGISZxM9tu2F4P9pXsSmbzs/view?usp=drive_link)
+* [Call Analytics Engine](https://drive.google.com/file/d/1SMVRMNlNl99ck36hl9cZFmXSKeiQlSN9/view?usp=drive_link)
 ---
 
 ### Course Work
