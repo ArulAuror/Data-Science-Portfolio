@@ -25,6 +25,10 @@ __Dataset for analysis__ 2019 Q1 flights data
 <img src='https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/8cc85ab5-d6f3-4fa6-8398-7847cdbd0511' width=100>
 </p>
 
+
+## COST BENEFIT ANALYSIS
+![image](https://github.com/ArulAuror/Data-Science-Portfolio/assets/76837847/150e55da-1648-4d27-ac33-334d5ab0a9e7)
+
 #### Data Munging:
 __Merge 1 :__ I joined the filtered airport data frame with that of tickets data frame by merging by origin and destination fields in tickets to that of IATA code in airport which gives us the fare details for passengers travelling between medium and large US domestic airports.  For the round-trip fare tickets, I further grouped at origin-destination pair level for each leg of travel to find out average round trip fare. Since LAS – LAX and LAX-LAS correspond to single round trip, we have averaged the fares to find global average for each unique round trip.
 
